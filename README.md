@@ -36,3 +36,10 @@ git clone https://github.com/Venkata-Jayanth04/Drowsiness-Detection.git
 
 ### Drowsy:
 <img src="https://github.com/user-attachments/assets/7ba1efdd-c008-49b6-8127-cca4a59061b9" alt="Drowsy" width="500">
+
+How It Works
+The system captures a video feed from a webcam.
+It detects the eyes and mouth using the YOLOv3 model.
+If the eyes remain closed for a certain duration, the system identifies drowsiness.
+If yawning is detected, the system increases the drowsiness score.
+If the drowsiness score crosses a threshold, an alarm is triggered.
