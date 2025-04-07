@@ -25,3 +25,13 @@ Model-Performance
 Accuracy: 98%
 Training Loss: 0.04 (4%)
 Validation Loss: 0.05 (5%)
+
+To clone the GitHub repository:
+git clone https://github.com/Venkata-Jayanth04/Drowsiness-Detection.git
+
+Project Outputs:
+Non-Drowsy:
+![a](https://github.com/user-attachments/assets/31db103b-26f4-47be-8bff-c8f935be3397)
+Drowsy:
+![b](https://github.com/user-attachments/assets/7ba1efdd-c008-49b6-8127-cca4a59061b9)
+
