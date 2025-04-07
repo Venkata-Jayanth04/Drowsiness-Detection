@@ -31,7 +31,7 @@ git clone https://github.com/Venkata-Jayanth04/Drowsiness-Detection.git
 
 Project Outputs:
 Non-Drowsy:
-![a](https://github.com/user-attachments/assets/31db103b-26f4-47be-8bff-c8f935be3397)
+<img src="https://github.com/user-attachments/assets/31db103b-26f4-47be-8bff-c8f935be3397" alt="a" width="500">
 Drowsy:
-![b](https://github.com/user-attachments/assets/7ba1efdd-c008-49b6-8127-cca4a59061b9)
+<img src="https://github.com/user-attachments/assets/7ba1efdd-c008-49b6-8127-cca4a59061b9" alt="b" width="500">
 
