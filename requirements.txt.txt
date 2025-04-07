@@ -1,0 +1,17 @@
+# OpenCV library for computer vision tasks
+opencv-python
+
+# Matplotlib library for data visualization
+matplotlib
+
+# TensorFlow library for machine learning and deep learning models
+tensorflow
+
+pip install -r requirements.txt
+
+
+versions--
+matplotlib==3.7.1
+numpy==1.23.5
+opencv-python==4.7.0.72
+tensorflow==2.13.0
